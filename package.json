@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Git Course",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marlinus/first-git-repository.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marlinus/first-git-repository/issues"
+  },
+  "homepage": "https://github.com/marlinus/first-git-repository#readme",
+  "dependencies": {
+    "typescript": "^4.7.2"
+  }
+}
