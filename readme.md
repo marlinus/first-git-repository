@@ -9,6 +9,12 @@
 #####h5
 ######h6
 
+**Some text (bold)**
+_*Some text (italic)*_
+
+#Within operations
+
+
 * Первый уровень
 * Второй уровень
   * Подуровень второго уровня
